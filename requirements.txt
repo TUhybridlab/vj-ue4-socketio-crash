@@ -3,7 +3,7 @@
 
 # Custom dependecies
   flask-socketio==2.8.5
-  python-engineio==1.2.4
+  python-engineio==3.8.2.post1
   gevent-websocket==0.9.5
   gevent==1.2.1
   python-socketio==1.7.1
